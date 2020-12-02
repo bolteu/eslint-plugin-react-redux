@@ -1,6 +1,6 @@
 {
   "name": "@bolteu/eslint-plugin-react-redux",
-  "version": "3.5.0",
+  "version": "3.6.0",
   "description": "Enforcing best practices for react-redux",
   "keywords": [
     "eslint",

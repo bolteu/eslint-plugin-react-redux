@@ -184,5 +184,4 @@ ruleTester.run('mapStateToProps-prefer-selectors', rule, {
       message: 'mapStateToProps "x"\'s selector "getX" parameter #1 should be "ownProps2".',
     }],
   }],
-
 });
